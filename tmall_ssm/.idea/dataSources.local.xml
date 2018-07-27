@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="tmall_ssm@localhost" uuid="6695bc6c-6988-4583-9f1a-c9819816934a">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <introspection-schemas>*:tmall_ssm</introspection-schemas>
+    </data-source>
+  </component>
+</project>
